@@ -1,7 +1,7 @@
-Name: <Your name here>
+Name: <David>
 
 Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
 
-Notes: The more concise and detailed the notes, the better the grade.  
+Notes: Had to redo the assignment as I had issues submitting the previous repository
 
 ###
