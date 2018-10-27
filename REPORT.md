@@ -1,4 +1,4 @@
-Name: <David>
+Name: David Nguyen
 
 Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
 
